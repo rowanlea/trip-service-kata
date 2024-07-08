@@ -17,6 +17,6 @@ If you want to give it a go, the starting point is [TripServiceTest.cs][3] and [
 For future comparisions, when you are done, you can always check [TripService_Original.cs][2]
 
 [1]: http://craftedsw.blogspot.com/2011/07/testing-legacy-hard-wired-dependencies.html "Testing legacy code: Hard-wired dependencies blog post"
-[2]: https://github.com/sandromancuso/trip-service-kata/c#_net5/TripServiceKata/TripService_Original.cs "TripService_Original.cs"
-[3]: https://github.com/sandromancuso/trip-service-kata/c#_net5/TripServiceKata/TripServiceKata.Tests/TripServiceTest.cs "TripServiceTest.cs"
-[4]: https://github.com/sandromancuso/trip-service-kata/c#_net5/TripServiceKata/Trip/TripService.cs "TripService.cs"
+[2]: https://github.com/sandromancuso/trip-service-kata/c#/dotnet-5/TripServiceKata/TripService_Original.cs "TripService_Original.cs"
+[3]: https://github.com/sandromancuso/trip-service-kata/c#/dotnet-5/TripServiceKata/TripServiceKata.Tests/TripServiceTest.cs "TripServiceTest.cs"
+[4]: https://github.com/sandromancuso/trip-service-kata/c#/dotnet-5/TripServiceKata/Trip/TripService.cs "TripService.cs"
